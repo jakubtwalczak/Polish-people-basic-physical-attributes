@@ -1,11 +1,15 @@
 # Polish people basic physical attributes
 
 Using OOP to generate data about height, weights and BMIs of Polish people.
+
 **Update 2024/01/18** - added notebook with supervised machine learning models (more detailed description below).
+
+**Update 2024/01/21** - added notebook with second kind of regression (only continuous features, improved overall metrics).
 
 # Project's description
 
 Using OOP to generate data about height, weights and BMIs of Polish people. BONUS: Comparison of Polish football teams' members' attributes to generated distributions.
+
 **Update 2024/01/18** - added notebook with stacking, blending and single classification and regression techniques to - approprietly - assign men or women to their sex and predict people's height values, depending on their weight, sex and categorized BMI.
 
 # Technologies used
